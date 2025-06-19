@@ -18,11 +18,11 @@ This is a repository to showcase skills, share projects and track my progress in
         - les les familles et des virus  les  plus etudies en afriques
         - la colaborations de la reherches  sur  l'etudes  des virus
      
-      - Sql
-      - R
-   - Education
-   - Certification
-   - 
+    - Sql
+    - R
+- Education
+- Certification
+
 
 
           
