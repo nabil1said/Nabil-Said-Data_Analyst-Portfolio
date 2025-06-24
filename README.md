@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - API 
     - Python
       - *Projet de recherche sur les virus étudiés en contexte africain*  
-        - [Collectes de données et  préparations de Données](
+        - [Collectes de données et  préparations de Données](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Pubmed_extraction_des_donn%C3%A9es_sur_les_fichier_txt_1.ipynb)
         -
         - [Analyse des publications Africaines sur les virus indexés pubmed   avant et apres covid](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_analyse_de_donnes_exploratoire.ipynb) 
         - Les familles et des virus  les  plus etudies en afriques
