@@ -2,10 +2,9 @@
 
 # About
 
-Je m'appelle Nabil. 
-Issu d’un background en biologie, je me spécialise en analyse de données appliquée à la santé publique. J’ai travaillé sur des projets épidémiologiques, combinant Python, Excel et NLP (scispaCy) pour extraire et analyser des données biomédicales.
-Passionné par la data, je cherche à mettre mes compétences au service de projets à impact social.
-
+My name is Nabil.
+With a background in biology, I specialize in data analysis applied to public health. I have worked on epidemiological projects, leveraging Python, Excel, and NLP tools (such as scispaCy) to extract and analyze biomedical data.
+Passionate about data, I am eager to apply my skills to projects with a meaningful social impact.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -19,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
         - [Extraxtions des virus sur le resumé et l'abstract](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_extratction_des_virus_step4.ipynb)
         - [Analyse des publications Africaines sur les virus indexés pubmed   avant et apres covid](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_analyse_de_donnes_exploratoire.ipynb)
           - [Analyse des affiliations auteurs](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_pour_pour_analyse_des_affiliations.ipynb)
-        - Les familles et des virus  les  plus etudies en afriques(
+        - Les familles et des virus  les  plus etudies en afriques(#####)
         - la colaborations de la reherches  sur  l'etudes  des virus
      
     - Sql
