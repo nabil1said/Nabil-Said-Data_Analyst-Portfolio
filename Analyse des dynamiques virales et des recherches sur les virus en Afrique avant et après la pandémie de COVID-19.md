@@ -1,4 +1,4 @@
-﻿\# Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
+﻿# Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
 
 \---
 
@@ -49,3 +49,4 @@ L’objectif est de mieux comprendre l’évolution de l’intérêt scientifiqu
 - 🏆 \*\*Virus les plus étudiés\*\* : VIH, VHB, VHC
 - 🌍 \*\*Répartition géographique\*\* : forte concentration en Afrique du Sud, Nigeria, Kenya
 - 🔗 \*\*Co-occurrence\*\* : nombreuses études combinées VIH–VHB
+
