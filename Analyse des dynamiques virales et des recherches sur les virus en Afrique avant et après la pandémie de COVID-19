@@ -1,0 +1,57 @@
+# 🦠 Analyse de données des dynamique de virus  étudiés en Afrique avant  apres le covid-19 
+
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow.svg)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-En%20Cours-orange)
+
+---
+
+## 📌 Contexte
+L’Afrique est une région confrontée à plusieurs défis sanitaires majeurs liés aux maladies virales (VIH, VHB, VHC, fièvre jaune, Ebola, etc.).  
+Ce projet a pour objectif d’analyser les **tendances de recherche scientifique** sur les virus étudiés en Afrique à travers des données collectées dans des articles et bases scientifiques.
+
+---
+
+## 🎯 Objectifs du projet
+- Identifier les virus les plus étudiés.
+- Analyser la répartition géographique des recherches.
+- Étudier l’évolution temporelle des publications.
+- Explorer les co-occurrences entre différents virus.
+
+---
+
+## 🛠️ Outils & Technologies
+- **Python** (Pandas, Numpy) → manipulation et nettoyage des données.  
+- **Visualisation** : Matplotlib, Plotly, HoloViews.  
+- **Text mining** : SpaCy, FlashText.  
+- **Géolocalisation** : KeywordProcessor pour mapping pays.  
+- **Environnement** : Jupyter Notebook / Google Colab.  
+
+---
+
+## 📊 Dataset
+- **Source** : articles scientifiques (XXXX–XXXX).  
+- **Taille** : XX entrées (articles), XX colonnes (année, pays, virus, etc.).  
+- **Nettoyage effectué** :
+  - Normalisation des noms de virus.
+  - Harmonisation des noms de pays.
+  - Extraction des entités biologiques (NLP).
+
+---
+
+## 🔍 Analyse & Résultats
+- 📈 **Tendance temporelle** : croissance significative des publications après 2000.  
+- 🏆 **Virus les plus étudiés** : VIH, VHB, VHC.  
+- 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya.  
+- 🔗 **Co-occurrence** : nombreuses études combinées VIH–VHB.  
+
+*(Quelques visualisations seront insérées ici : graphiques, cartes, réseaux, etc.)*
+
+---
+
+## 🚀 Installation & Exécution
+1. Cloner le dépôt :  
+   ```bash
+   git clone https://github.com/<ton_nom_utilisateur>/virus-africa-analysis.git
+   cd virus-africa-analysis
