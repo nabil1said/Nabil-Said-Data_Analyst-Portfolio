@@ -3,8 +3,7 @@
 ---
 
 ## 📌 Contexte
-L’Afrique est une région confrontée à de nombreux défis sanitaires majeurs liés aux maladies virales telles que le VIH,
-les hépatites B et C, la fièvre jaune, encore Ebola...  
+En Afrique, les maladies virales représentent un enjeu de santé publique majeur, avec des pathologies telles que le VIH, les hépatites B et C, la fièvre jaune ou encore Ebola. La récente pandémie de COVID-19 a mis en lumière, de manière encore plus évidente, la nécessité d’approfondir la recherche et la compréhension des virus.
 
 Ce projet vise à analyser les tendances de la recherche scientifique sur les virus étudiés en Afrique, à partir de données extraites d’articles scientifiques et de bases de données spécialisées (PubMed).  
 
@@ -46,6 +45,7 @@ L’objectif est de mieux comprendre l’évolution de l’intérêt scientifiqu
 - 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
