@@ -14,8 +14,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - API 
     - Python
       - *Projet de recherche sur les virus étudiés en contexte africain*  
-        - [Collectes de données et  préparations de Données via PUBMED](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Pubmed_extraction_des_donn%C3%A9es_sur_les_fichier_txt_1.ipynb)
-        - [Extraction des noms de virus à partir des titres et résumés (abstracts) à l’aide des outils de traitement du langage naturel (NLP) de ScispaCy](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_extratction_des_virus_step4.ipynb)
+        - [Collectes de données et  préparations de Données via PUBMED](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step1_extraction_des_data_txt_pubmed.ipynb)
+        - [Extraction des noms de virus à partir des titres et résumés (abstracts) à l’aide des outils de traitement du langage naturel (NLP) de ScispaCy]()
         - [Analyse bibliométrique des études africaines sur les virus à tropisme humain avant et après la pandémie de COVID-19 dans PubMed](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_analyse_de_donnes_exploratoire.ipynb)
           - [Dynamique de  la publications  avant et apres le COVID-19](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_pour_pour_analyse_des_affiliations.ipynb)
           -  [P](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_pour_pour_analyse_des_affiliations.ipynb)
