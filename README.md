@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
  - Portfolio Projects
     - API 
     - Python
-      - *Projet de recherche sur les virus étudiés en contexte africain*  
+      - [*Projet de recherche sur les virus étudiés en contexte africain*](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Analyse%20des%20dynamiques%20virales%20et%20des%20recherches%20sur%20les%20virus%20en%20Afrique%20avant%20et%20apr%C3%A8s%20la%20pand%C3%A9mie%20de%20COVID-19) 
         - [Collectes de données et  préparations de Données via PUBMED](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step1_extraction_des_data_txt_pubmed.ipynb)
         - [Extraction des noms de virus à partir des titres et résumés (abstracts) à l’aide des outils de traitement du langage naturel (NLP) de ScispaCy](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step2_Utilisation_des_nlp_pour_avoir_les_virus_ml.py)
         - [Extraction des pays d’affiliation des auteurs](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step3_extractions_des_pays_dans_les_affiliations_step3.ipynb)
