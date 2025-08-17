@@ -15,12 +15,13 @@ This is a repository to showcase skills, share projects and track my progress in
     - Python
       - *Projet de recherche sur les virus étudiés en contexte africain*  
         - [Collectes de données et  préparations de Données via PUBMED](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step1_extraction_des_data_txt_pubmed.ipynb)
-        - [Extraction des noms de virus à partir des titres et résumés (abstracts) à l’aide des outils de traitement du langage naturel (NLP) de ScispaCy]()
-        - [Analyse bibliométrique des études africaines sur les virus à tropisme humain avant et après la pandémie de COVID-19 dans PubMed](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_analyse_de_donnes_exploratoire.ipynb)
-          - [Dynamique de  la publications  avant et apres le COVID-19](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_pour_pour_analyse_des_affiliations.ipynb)
-          -  [P](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_pour_pour_analyse_des_affiliations.ipynb)
-          - [Étude des coopérations inter-pays dans les recherches publiées](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/pubmed_pour_pour_analyse_des_affiliations.ipynb)
-        - Classement des familles virales et des virus les plus étudiés par les chercheurs en Afrique(#####)      
+        - [Extraction des noms de virus à partir des titres et résumés (abstracts) à l’aide des outils de traitement du langage naturel (NLP) de ScispaCy](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step2_Utilisation_des_nlp_pour_avoir_les_virus_ml.py)
+        - [Extraction des pays d’affiliation des auteurs](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step3_extractions_des_pays_dans_les_affiliations_step3.ipynb)
+        - [Extraction des virus mentionnés dans chaque article analysé](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step4_extraction_des_virus.ipynb)
+        - [Prétraitement des données extraites pour analyse 1](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step5_nettoyes_des_donnes1.ipynb)
+        -  [Prétraitement des données extraites pour analyse 2](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step5_nettoyes_des_donnes2_virus.ipynb)
+        - [Analyse bibliométrique des études africaines sur les virus à tropisme humain avant et après la pandémie de COVID-19 dans PubMed](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step5_Analyse_de_donnes_exploratoire.ipynb)
+          - [Dynamique des virus étudiées avant et apres le COVID-19](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Step6_Analyse_virus_extrected_analyse_virus-Copy1.ipynb)
      
     - Sql
     - R
