@@ -8,9 +8,10 @@
 ---
 
 ## 📌 Contexte
-L’Afrique est une région confrontée à plusieurs défis sanitaires majeurs liés aux maladies virales (VIH, VHB, VHC, fièvre jaune, Ebola, etc.).  
-Ce projet a pour objectif d’analyser les **tendances de recherche scientifique** sur les virus étudiés en Afrique à travers des données collectées dans des articles et bases scientifiques.
-
+L’Afrique est une région confrontée à de nombreux défis sanitaires majeurs liés aux maladies virales telles que le VIH,
+ les hépatites B et C, la fièvre jaune, ou encore Ebola.
+Ce projet vise à analyser les tendances de la recherche scientifique sur les virus étudiés en Afrique, à partir de données extraites d’articles scientifiques et de bases de données spécialisées PUBMED.
+L’objectif est de mieux comprendre l’évolution de l’intérêt scientifique pour ces virus, avant et après la pandémie de COVID-19
 ---
 
 ## 🎯 Objectifs du projet
