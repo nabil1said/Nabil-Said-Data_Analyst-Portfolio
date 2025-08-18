@@ -1,4 +1,4 @@
- <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/f172b148-01d5-4636-b74f-dbdc0e6398a7" />
+ 
 # Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
 
 ---
@@ -47,6 +47,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 - 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
