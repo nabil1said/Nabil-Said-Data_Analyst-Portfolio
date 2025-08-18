@@ -1,4 +1,5 @@
- # Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
+ <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/f172b148-01d5-4636-b74f-dbdc0e6398a7" />
+# Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
 
 ---
 
@@ -35,6 +36,9 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 
 ## 🔍 Analyse & Résultats
 - 📈 **Tendance temporelle** : Dynamique des publications entre 2016 et 2020
+<img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/7471a9b6-9761-4aa0-9735-2df3f7749ff5" />
+
+
 - 
 - 🏆 **Virus les plus étudiés** : VIH, VHB, VHC
   - Figure
@@ -43,6 +47,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 - 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
