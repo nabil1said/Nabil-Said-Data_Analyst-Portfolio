@@ -1,5 +1,4 @@
- 
-# Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
+ # Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
 
 ---
 
@@ -47,6 +46,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 - 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
