@@ -47,12 +47,19 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
   
 <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/7471a9b6-9761-4aa0-9735-2df3f7749ff5" />
 
-- 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
+- 🏆 ** 🏆 Virus et familles virales étudiés (2016–2024) **
+ - les virus
+   <img width="800" height="400" alt="nuage_virus" src="https://github.com/user-attachments/assets/ddd45756-e4e7-45c9-ac37-7123ed89b954" />
+   
+ - les familles etudiés
+   
+   <img width="2249" height="1687" alt="famille_viral_etudié" src="https://github.com/user-attachments/assets/680da409-81a2-4055-bc19-d9a1ef961d2c" />
+
   
-  <img width="800" height="400" alt="nuage_virus" src="https://github.com/user-attachments/assets/ddd45756-e4e7-45c9-ac37-7123ed89b954" />  <img width="2633" height="2370" alt="famille_viral_etudié" src="https://github.com/user-attachments/assets/7b54f287-c6e7-429f-9905-73391b13c2c0" />
+- 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
+- 
 
-
-
+- 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
 
 - 🔗 **Co-occurrence** : nombreuses études combinées VIH–VHB
   - Figure
@@ -60,6 +67,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 te concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
