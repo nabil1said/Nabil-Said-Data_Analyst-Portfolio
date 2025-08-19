@@ -17,7 +17,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 ---
 
 ## 🛠️ Outils & Technologies
-- **Python** (Pandas) → manipulation et nettoyage des données  
+- **Python** (Pandas) → manipulation et nettoyage des données [lien du code](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/les%20etapes%20pour%20pour%20ce%20%20projet.md)  
 - **Visualisation** : Matplotlib, Plotly, HoloViews  
 - **Text mining** : SpaCy, FlashText  
 - **Environnement** : Jupyter Notebook / Google Colab
@@ -79,6 +79,7 @@ En résumé, la pandémie a constitué un facteur déterminant dans l’évoluti
 
  
  
+
 
 
 
