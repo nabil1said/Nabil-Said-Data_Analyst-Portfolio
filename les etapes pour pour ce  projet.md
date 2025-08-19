@@ -1,4 +1,4 @@
-﻿\## Les étapes du Delete Analyse des dynamiques virales et des recherches sur les virus en Afrique avant et après la pandémie de COVID-19
+﻿## Les étapes du Delete Analyse des dynamiques virales et des recherches sur les virus en Afrique avant et après la pandémie de COVID-19
 
 - [Collectes de données et  préparations de Données via PUBMED](https://github.com/nabil1said/Nabil-Said-Data\_Analyst
 - Portfolio/blob/main/Step1\_extraction\_des\_data\_txt\_pubmed.ipynb)
@@ -9,3 +9,4 @@
 - [Prétraitement des données extraites pour analyse 2](https://github.com/nabil1said/Nabil-Said-Data\_Analyst-Portfolio/blob/main/Step5\_nettoyes\_des\_donnes2\_virus.ipynb)
 - [Analyse bibliométrique des études africaines sur les virus à tropisme humain avant et après la pandémie de COVID-19 dans PubMed](https://github.com/nabil1said/Nabil-Said-Data\_Analyst-Portfolio/blob/main/Step5\_Analyse\_de\_donnes\_exploratoire.ipynb)
 - [Dynamique des virus étudiées avant et apres le COVID-19](https://github.com/nabil1said/Nabil-Said-Data\_Analyst-Portfolio/blob/main/Step6\_Analyse\_virus\_extrected\_analyse\_virus-Copy1.ipynb)
+
