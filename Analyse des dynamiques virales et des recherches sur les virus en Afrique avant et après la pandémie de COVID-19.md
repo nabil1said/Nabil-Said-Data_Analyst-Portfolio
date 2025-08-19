@@ -36,8 +36,8 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 ## 🔍 Analyse & Résultats
 
 - 🏆 **Évolution du nombre d’articles publiés par année et par pays **
-  <img width="1395" height="525" alt="article  par pays et par année" src="https://github.com/user-attachments/assets/1ccbd5c4-b6b4-446c-8cfd-3fb0a0a99c57" />
 
+   <img width="1395" height="525" alt="article  par pays et par année" src="https://github.com/user-attachments/assets/fc6378b6-8435-45a7-8d37-b34912f789a0" />
 
 - 📈 **Nombre d'articles impliquant au moins une institution par pays, avant et après la pandémie (2016 - 2020)**
   
@@ -46,7 +46,6 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 - 📈 **Tendance temporelle** : Dynamique des publications entre 2016 et 2020
   
 <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/7471a9b6-9761-4aa0-9735-2df3f7749ff5" />
-
 
 - 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
 
@@ -58,6 +57,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 te concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
