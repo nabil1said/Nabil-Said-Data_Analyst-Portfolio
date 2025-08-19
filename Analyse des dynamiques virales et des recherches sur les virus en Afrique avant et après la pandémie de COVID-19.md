@@ -49,7 +49,8 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 
 - 🏆 ** 🏆 Virus et familles virales étudiés (2016–2024) **
  - les virus
-   <img width="800" height="400" alt="nuage_virus" src="https://github.com/user-attachments/assets/ddd45756-e4e7-45c9-ac37-7123ed89b954" />
+
+     <img width="800" height="400" alt="nuage_virus" src="https://github.com/user-attachments/assets/ddd45756-e4e7-45c9-ac37-7123ed89b954" />
    
  - les familles etudiés
    
@@ -67,6 +68,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 te concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
