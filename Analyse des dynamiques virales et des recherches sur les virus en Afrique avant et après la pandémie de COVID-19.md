@@ -58,15 +58,19 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 
   
 - 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
+  
   <img width="1000" height="500" alt="Top 8 de virus etudie avant et apres le covid (2)" src="https://github.com/user-attachments/assets/a4332e0a-2c48-450e-b87e-f8f410be6b7a" />
 
 
 - 🔗 **Co-occurrence** : nombreuses études combinées VIH–VHB
-  - Figure
+  <img width="1073" height="525" alt="Most frequently studied pairs of viruses" src="https://github.com/user-attachments/assets/3fa81a4c-b14f-421a-a670-47c4f8be5fad" />
+
+  
 - 🌍 **Répartition géographique** : 
 te concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
