@@ -36,9 +36,11 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 ## 🔍 Analyse & Résultats
 
 - 📈 **Nombre d'articles impliquant au moins une institution par pays, avant et après la pandémie (2016 - 2020)**
+  
   <img width="1350" height="591" alt="pays article" src="https://github.com/user-attachments/assets/8ba498bd-7dce-456b-8af1-e3d46ac93519" />
   
 - 📈 **Tendance temporelle** : Dynamique des publications entre 2016 et 2020
+  
 <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/7471a9b6-9761-4aa0-9735-2df3f7749ff5" />
 
 
@@ -49,6 +51,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 - 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
