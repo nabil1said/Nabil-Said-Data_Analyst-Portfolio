@@ -35,6 +35,10 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 
 ## 🔍 Analyse & Résultats
 
+- 🏆 **Évolution du nombre d’articles publiés par année et par pays **
+  <img width="1395" height="525" alt="article  par pays et par année" src="https://github.com/user-attachments/assets/1ccbd5c4-b6b4-446c-8cfd-3fb0a0a99c57" />
+
+
 - 📈 **Nombre d'articles impliquant au moins une institution par pays, avant et après la pandémie (2016 - 2020)**
   
   <img width="1350" height="591" alt="pays article" src="https://github.com/user-attachments/assets/8ba498bd-7dce-456b-8af1-e3d46ac93519" />
@@ -44,13 +48,17 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/7471a9b6-9761-4aa0-9735-2df3f7749ff5" />
 
 
-- 🏆 **Virus les plus étudiés** : VIH, VHB, VHC
-  - Figure
+- 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
+
+
+  
 - 🔗 **Co-occurrence** : nombreuses études combinées VIH–VHB
   - Figure
-- 🌍 **Répartition géographique** : forte concentration en Afrique du Sud, Nigeria, Kenya
+- 🌍 **Répartition géographique** : 
+te concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
