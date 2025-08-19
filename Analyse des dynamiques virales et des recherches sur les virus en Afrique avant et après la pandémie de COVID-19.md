@@ -48,15 +48,19 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 <img width="1395" height="525" alt="covid graph" src="https://github.com/user-attachments/assets/7471a9b6-9761-4aa0-9735-2df3f7749ff5" />
 
 - 🏆 ** Top 10 des Virus les plus étudiés avant et  apres la pandemie COVID-19**
-
-
   
+  <img width="800" height="400" alt="nuage_virus" src="https://github.com/user-attachments/assets/ddd45756-e4e7-45c9-ac37-7123ed89b954" />
+
+  <img width="3003" height="2670" alt="virus_etudié" src="https://github.com/user-attachments/assets/4cbb8c68-8447-4783-9093-95e2155d8a78" />
+<img width="2591" height="2670" alt="famille_etudié" src="https://github.com/user-attachments/assets/3ed30eb3-4351-485b-9110-d143e34decfb" />
+
 - 🔗 **Co-occurrence** : nombreuses études combinées VIH–VHB
   - Figure
 - 🌍 **Répartition géographique** : 
 te concentration en Afrique du Sud, Nigeria, Kenya
     - Figure 
  
+
 
 
 
