@@ -25,8 +25,10 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 ---
 
 ## 📊 Dataset
-- **Source** : articles scientifiques (2016–2024)  
-- **Taille** : XX entrées (articles), XX colonnes (année, pays, virus, etc.)  
+- **Source** :
+  -  Articles scientifiques pubmed (2016–2024)
+  -  Noms de virus extrait de https://viralzone.expasy.org/678)
+- **Taille** : 29933 articles, 11 colonnes ('PMID', 'Pays', 'Affiliation', 'Authors_Countries','Detected_Viruses', 'Detected_Families','clé_composite', 'year', 'pandemie)  
 - **Nettoyage effectué** :  
   - Normalisation des noms de virus  
   - Harmonisation des noms de pays auteurs
@@ -35,7 +37,7 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
 
 ## 🔍 Analyse & Résultats
 
-- 🏆 **Évolution du nombre d’articles publiés par année et par pays **
+- 🏆 **Évolution du nombre d’articles publiés par année et par pays**
 
    <img width="1395" height="525" alt="article  par pays et par année" src="https://github.com/user-attachments/assets/fc6378b6-8435-45a7-8d37-b34912f789a0" />
 
@@ -67,10 +69,19 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
   <img width="1073" height="525" alt="Most frequently studied pairs of viruses" src="https://github.com/user-attachments/assets/3fa81a4c-b14f-421a-a670-47c4f8be5fad" />
 
   - 🌍 Chord Diagram of All Virus Co-occurrences [lien vers le interctif graph](Click here to view the interactive graph)
+ 
+    # Concluision
+    L’analyse montre que la production scientifique a fortement augmenté après l’émergence du coronavirus (2020-2024), avec une croissance moyenne de 39,3 % et un pic en 2020. Cependant, en excluant les articles consacrés spécifiquement au coronavirus, l’augmentation réelle n’est que de 8 %.
+
+Ces résultats mettent en évidence l’impact direct de la pandémie de COVID-19 sur les dynamiques de publication, révélant une réorientation massive vers le SARS-CoV-2, tandis que la recherche sur les autres virus a progressé de manière plus modeste mais régulière.
+
+En résumé, la pandémie a constitué un facteur déterminant dans l’évolution récente des publications scientifiques, mais l’augmentation globale reste beaucoup plus nuancée lorsqu’on isole les thématiques non liées au coronavirus.
+    
 
 
  
  
+
 
 
 
