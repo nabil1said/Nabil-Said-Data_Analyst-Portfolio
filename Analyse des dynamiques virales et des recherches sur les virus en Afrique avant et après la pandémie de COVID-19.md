@@ -1,4 +1,4 @@
- # Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
+ # Dynamiques de recherche sur les virus en Afrique : une analyse pré- et post-COVID-19
 
 ---
 
@@ -79,6 +79,7 @@ En résumé, la pandémie a constitué un facteur déterminant dans l’évoluti
 
  
  
+
 
 
 
