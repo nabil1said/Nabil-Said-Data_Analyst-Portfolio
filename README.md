@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
  - Portfolio Projects
     - API 
     - Python
-      - [*Projet de recherche sur les virus étudiés en contexte africain*](https://github.com/nabil1said/Nabil-Said-Data_Analyst-Portfolio/blob/main/Analyse%20des%20dynamiques%20virales%20et%20des%20recherches%20sur%20les%20virus%20en%20Afrique%20avant%20et%20apr%C3%A8s%20la%20pand%C3%A9mie%20de%20COVID-19.md) 
+      - [*Projet de recherche sur les virus étudiés en contexte africain*](https://github.com/nabil1said/Virus_Research_Trends_in_Africa/blob/main/README) 
      
     - Sql
     - R
